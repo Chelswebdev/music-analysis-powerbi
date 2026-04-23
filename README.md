@@ -1,7 +1,7 @@
 # music-analysis-powerbi
 Music data analysis dashboard using Power BI
 
-# 🎧 What Makes a Song Popular? | Power BI Dashboard
+# What Makes a Song Popular? | Power BI Dashboard
 
 ## Overview
 
